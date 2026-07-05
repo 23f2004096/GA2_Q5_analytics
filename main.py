@@ -58,7 +58,7 @@ def analytics(data: RequestBody, x_api_key: Optional[str] = Header(None)):
 
     # 📤 Step 6: response
     return {
-        "email": "your-email@example.com",  # replace this
+        "email": "23f2004096@ds.study.iitm.ac.in",  # replace this
         "total_events": total_events,
         "unique_users": unique_users,
         "revenue": revenue,
